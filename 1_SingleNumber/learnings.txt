@@ -1,0 +1,19 @@
+My solution:
+
+Time complexity: O(N)
+Space complexity: O(N)
+
+Best Solution:
+
+Time complexity: O(N)
+Space complexity: O(1)
+
+Comments:
+
+Best solution makes use of bitwise operations and following facts:
+
+- XOR is the same as integer addition modulo 2
+
+- 0 XOR A = A
+- A XOR A = 0
+- A XOR B XOR A = B
