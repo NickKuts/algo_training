@@ -1,0 +1,4 @@
+My Solution (Best Possible):
+
+Calculate squared sum of digits in input number until cycle is met.
+To store sums that we've already seen use hashmap.
