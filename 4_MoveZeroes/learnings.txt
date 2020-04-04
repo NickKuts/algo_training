@@ -1,0 +1,1 @@
+Simple O(N) algorithm with O(1) space.
