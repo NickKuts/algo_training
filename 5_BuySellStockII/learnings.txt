@@ -1,0 +1,2 @@
+Best solution is simple and O(N).
+If we can make 1 transaction at the time and know the whole stock array, we only sell at peaks (calculate sum of all upslopes).
